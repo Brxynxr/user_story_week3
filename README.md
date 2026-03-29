@@ -39,4 +39,4 @@ python app.py
 
 ## 👤 Author
 
-**Breyner** — RIWI Software Development Student
+**Breyner** — 2026
